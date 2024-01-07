@@ -20,9 +20,9 @@ export default function HexCard({ color, guess, isGuessing, setIsHoveringCard })
         className={`mix-blend-difference text-white text-center transform duration-500`}
         hidden={isGuessing}
       >
-        <p className="text-4xl font-bold">{color}</p>
+        <p className="text-4xl font-bold uppercase">{color}</p>
         <p>
-          You guessed <span className="font-bold">#{guess}</span>
+          You guessed <span className="font-bold uppercase">#{guess}</span>
         </p>
         <p className="font-bold mt-4 text-2xl">{hexSimilarity(color, guess)}% correct</p>
       </div>
