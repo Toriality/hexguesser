@@ -16,6 +16,8 @@ HexGuesser is a simple and silly fun game where you are tasked with guessing the
 
 <h2 align=center>How To Play:</h2>
 
+#### 🟩 [Go to HexGuesser](https://hexguesser.vercel.app/) 🟩
+
 <h3 align=center>What is a Hex Code?</h3>
 
 A Hex Code is a combination of Red, Green and Blue values that make up any color! For further information on how a Hex Code works or is made [click here](https://opusdesign.us/wordcount/what-are-hex-codes-for-colors/)!
