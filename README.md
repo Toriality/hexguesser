@@ -16,7 +16,7 @@ HexGuesser is a simple and silly fun game where you are tasked with guessing the
 
 <h2 align=center>How To Play:</h2>
 
-#### 🟩 [Go to HexGuesser](https://hexguesser.vercel.app/) 🟩
+#### <h3 align=center>🟩 https://hexguesser.vercel.app 🟩</h3>
 
 <h3 align=center>What is a Hex Code?</h3>
 
