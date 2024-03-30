@@ -24,7 +24,7 @@ A Hex Code is a combination of Red, Green and Blue values that make up any color
 
 <h3 align=center>Make your guess!</h3>
 
-You will be presented with an entirely random color, based on your knowledge make a guess which hex code could most closely represent the given color, no time limit so you can ponder for as long as you want, once you decide then input your answer in to the field and click guess!
+You will be presented with an entirely random color, based on your knowledge make a guess which hex code could most closely represent the given color, no time limit so you can ponder for as long as you want, once you decide then input your answer in to the field and click **Guess**!
 
 <h3 align=center>Inspect the correct answer</h3>
 
